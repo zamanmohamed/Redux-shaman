@@ -4,5 +4,5 @@
 /Redux/node_modules
 
 
-# dependencies (backend)
-#/backend/node_modules
+# dependencies (Redux-react)
+/Redux-react/node_modules
